@@ -1,0 +1,19 @@
+p {
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color:blue;
+    font-size: 36px;
+}
+
+.spets {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color:rgb(36, 184, 36);
+    font-size: 24px;
+    font-weight: bold;
+}
